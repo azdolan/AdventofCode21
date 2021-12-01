@@ -6,7 +6,7 @@ public class Day1 {
 
     public static void main(String[] args) throws Exception {
         ArrayList<Integer> measures= new ArrayList<Integer>();
-        File input = new File("/Users/aidandolan/Desktop/AdventofCode21/src/day1.txt");
+        File input = new File("/Users/********/Desktop/AdventofCode21/src/day1.txt");
         Scanner sc = new Scanner(input);
         int count = 0;
         int increases = 0;
